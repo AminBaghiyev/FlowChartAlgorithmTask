@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\FlowChartAlgorithmTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7AEF9-4016-4E72-BA25-03B59DBC282C}|FlowChartAlgorithmTask\\FlowChartAlgorithmTask.csproj|c:\\users\\user\\source\\repos\\flowchartalgorithmtask\\flowchartalgorithmtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7AEF9-4016-4E72-BA25-03B59DBC282C}|FlowChartAlgorithmTask\\FlowChartAlgorithmTask.csproj|solutionrelative:flowchartalgorithmtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\FlowChartAlgorithmTask\\FlowChartAlgorithmTask\\Program.cs",
+              "RelativeDocumentMoniker": "FlowChartAlgorithmTask\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\FlowChartAlgorithmTask\\FlowChartAlgorithmTask\\Program.cs",
+              "RelativeToolTip": "FlowChartAlgorithmTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:56:37.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

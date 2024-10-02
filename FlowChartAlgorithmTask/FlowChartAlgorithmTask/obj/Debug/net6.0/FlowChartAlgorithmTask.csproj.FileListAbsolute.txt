@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\bin\Debug\net6.0\FlowChartAlgorithmTask.exe
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\bin\Debug\net6.0\FlowChartAlgorithmTask.deps.json
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\bin\Debug\net6.0\FlowChartAlgorithmTask.runtimeconfig.json
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\bin\Debug\net6.0\FlowChartAlgorithmTask.dll
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\bin\Debug\net6.0\FlowChartAlgorithmTask.pdb
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\obj\Debug\net6.0\FlowChartAlgorithmTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\obj\Debug\net6.0\FlowChartAlgorithmTask.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\obj\Debug\net6.0\FlowChartAlgorithmTask.AssemblyInfo.cs
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\obj\Debug\net6.0\FlowChartAlgorithmTask.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\obj\Debug\net6.0\FlowChartAlgorithmTask.dll
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\obj\Debug\net6.0\refint\FlowChartAlgorithmTask.dll
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\obj\Debug\net6.0\FlowChartAlgorithmTask.pdb
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\obj\Debug\net6.0\FlowChartAlgorithmTask.genruntimeconfig.cache
+C:\Users\USER\source\repos\FlowChartAlgorithmTask\FlowChartAlgorithmTask\obj\Debug\net6.0\ref\FlowChartAlgorithmTask.dll
